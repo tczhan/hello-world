@@ -1,2 +1,3 @@
 # hello-world
-learning git
+
+Hello, internet world! I created a new github so I can work on my personal website!
